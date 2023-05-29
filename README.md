@@ -19,3 +19,4 @@ To do list yang ingin diubah dari file adalah:
 1. Ingin membuat inputan usia diganti dengan inputan tanggal lahir, sehingga usia nantinya akan bisa fleksibel sesuai dengan yang sebenarnya
 2. Ingin membuat inputan Riwayat Penyakit dan Riwayat Alergi bisa lebih dari 1, karena user bisa saja menderita beberapa penyakit ataupun alergi
 3. Ingin mengubah ke dalam bentuk tensorflow lite agar mempermudah diaplikasikan pada MD
+4. Ingin agar training dilakukan sekaligus
