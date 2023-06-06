@@ -22,6 +22,7 @@ To do list yang ingin diubah dari file adalah:
 4. Ingin agar training dilakukan sekaligus
 
 Untuk Food-Recognition:
-dataset: https://drive.google.com/drive/folders/1s2Mb1lXTbIxlLpVzvwwBoJJR2HHLO0F0?usp=sharing
+dataset-makanan: https://drive.google.com/drive/folders/1s2Mb1lXTbIxlLpVzvwwBoJJR2HHLO0F0?usp=sharing
 Sumber: http://data.vision.ee.ethz.ch/cvl/food-101.tar.gz
+
 food-101 yang diambil cuma 5 untuk mempermudah training data
