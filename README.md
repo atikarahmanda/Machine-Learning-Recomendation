@@ -20,3 +20,8 @@ To do list yang ingin diubah dari file adalah:
 2. Ingin membuat inputan Riwayat Penyakit dan Riwayat Alergi bisa lebih dari 1, karena user bisa saja menderita beberapa penyakit ataupun alergi
 3. Ingin mengubah ke dalam bentuk tensorflow lite agar mempermudah diaplikasikan pada MD
 4. Ingin agar training dilakukan sekaligus
+
+Untuk Food-Recognition:
+dataset: https://drive.google.com/drive/folders/1s2Mb1lXTbIxlLpVzvwwBoJJR2HHLO0F0?usp=sharing
+Sumber: http://data.vision.ee.ethz.ch/cvl/food-101.tar.gz
+food-101 yang diambil cuma 5 untuk mempermudah training data
