@@ -12,6 +12,7 @@ Ini adalah repository machine learning untuk memberikan rekomendasi makanan berd
 
 Menggunakan rumus Harris Benedict untuk membuat dataset_penggunafull2, dengan menggunakan kode pada file food_recomendation2.
 Dataset_penggunafull2 dibuat berdasarkan dengan dataset Makanan dan dataset Snack.
+dataset makanan dan dataset snack, sumber data: https://m.andrafarm.com/_andra.php?_i=daftar-tkpi
 
 Setelah dataset_penggunafull2 selesai dibuat, menggunakan machine learning content-based filtering untuk memberikan rekomendasi. FIle dapat dilihat pada fixcapstone_version_3_
 
