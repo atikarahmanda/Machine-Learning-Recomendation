@@ -28,9 +28,9 @@ How to use:
 - Upload file FoodRecomendation.ipynb to google collab
 - Adjust dataset dataset_penggunafull2.csv in drive
 - Run Google Collab and you will get the result
-4. For Food Recognition:
+3. For Food Recognition:
 - Upload file FoodRecognition.ipynb to google collab
 - Adjust dataset Food-Images in drive
 - Run Google Collab and you will get the result
-5. We make dataset pengguna by our self, we use file UserFoodRecomendation.csv to get dataset.
+4. We make dataset pengguna by our self, we use file UserFoodRecomendation.csv to get dataset.
 
