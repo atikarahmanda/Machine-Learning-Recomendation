@@ -1,0 +1,206 @@
+Kode User,Usia,BB,TB,Jenis Kelamin,Riwayat Penyakit,Riwayat Alergi,Faktor Aktivitas,Faktor Stress,disliked_foods,food_allergen
+1,10,25,110,L,Maag,Kacang,Istirahat di tempat tidur,Tidak Ada stres,Pempek,udang
+2,20,55,150,P,Diabetes,Udang,Kerja ringan,Stres Berat,Ayam Goreng,udang
+3,30,58,155,L,Maag,Seafood,Kerja berat,Stres Sedang,Martabak Manis,kerang
+4,40,60,160,P,Diabetes,-,Kerja ringan,Stres Sedang,Sate Padang,kacang
+5,50,49,148,L,-,-,Kerja berat,Stres Berat,Martabak Manis,kacang
+6,10,35,110,L,maag,-,Istirahat di tempat tidur,Stres Sangat Berat,-,-
+7,20,55,150,P,diabetes,-,Kerja sangat ringan,Stres Berat,-,-
+8,30,58,155,L,maag,Susu Sapi,Kerja ringan,Stres Berat,-,-
+9,40,60,160,P,diabetes,Kacang Tanah,Kerja ringan-sedang,Stres Ringan,-,-
+10,50,49,148,L,-,Gandum,Kerja sedang,Stres Sedang,-,-
+11,21,68,174,L,-,-,Kerja berat,Stres Sangat Berat,-,-
+12,28,65,175,P,-,Kerang,Kerja berat sekali,Stres Ringan,-,-
+13,42,73,180,L,-,-,Kerja sangat ringan,Stres Sangat Berat,-,-
+14,35,68,165,P,-,Telur,Kerja ringan,Stres Ringan,-,-
+15,50,80,185,L,-,-,Kerja ringan-sedang,Stres Berat,-,-
+16,22,60,170,L,-,-,Kerja sedang,Stres Berat,-,-
+17,31,75,178,P,-,Udang,Kerja berat,Stres Sedang,-,-
+18,45,82,188,L,-,-,Kerja berat sekali,Stres Sedang,-,-
+19,27,63,169,P,-,Kerang,Kerja sangat ringan,Stres Ringan,-,-
+20,39,71,175,L,maag,-,Kerja ringan,Stres Berat,-,-
+21,33,70,172,L,diabetes,-,Kerja ringan-sedang,Stres Sangat Berat,-,-
+22,48,77,182,P,maag,Susu Sapi,Kerja sedang,Stres Ringan,-,-
+23,25,67,168,L,diabetes,-,Kerja berat,Stres Sedang,-,-
+24,37,69,170,P,-,-,Kerja berat sekali,Stres Sangat Berat,-,-
+25,29,66,171,L,-,Kerang,Kerja sangat ringan,Stres Sedang,-,-
+26,41,74,176,L,-,-,Kerja ringan,Stres Ringan,-,-
+27,36,70,173,P,-,Gandum,Kerja ringan-sedang,Stres Berat,-,-
+28,52,85,190,L,-,-,Kerja sedang,Stres Sedang,-,-
+29,24,62,167,P,-,Ikan,Kerja berat,Stres Ringan,-,-
+30,30,68,173,L,maag,-,Kerja berat sekali,Stres Sedang,-,-
+31,44,78,180,L,diabetes,Kerang,Kerja sangat ringan,Stres Sangat Berat,-,-
+32,25,65,165,P,maag,-,Kerja ringan,Stres Sedang,-,-
+33,35,72,180,L,diabetes,Udang,Kerja ringan-sedang,Stres Ringan,-,-
+34,28,68,175,P,-,-,Kerja sedang,Stres Berat,-,-
+35,41,80,170,L,maag,Susu Sapi,Kerja berat,Stres Sedang,-,-
+36,32,70,168,L,diabetes,Ikan,Kerja berat sekali,Stres Sangat Berat,-,-
+37,47,90,185,P,maag,-,Kerja sangat ringan,Stres Ringan,-,-
+38,29,67,172,L,diabetes,-,Kerja ringan,Stres Berat,-,-
+39,38,75,178,P,-,Kerang,Kerja ringan-sedang,Stres Sedang,-,-
+40,26,63,160,L,-,-,Kerja sedang,Stres Sangat Berat,-,-
+41,33,71,175,L,maag,Gandum,Kerja berat,Stres Berat,-,-
+42,42,82,183,P,diabetes,-,Kerja berat sekali,Stres Sedang,-,-
+43,30,69,170,L,maag,Ikan,Kerja sangat ringan,Stres Sangat Berat,-,-
+44,36,73,176,P,diabetes,Kacang Tanah,Kerja ringan,Stres Ringan,-,-
+45,27,66,167,L,-,-,Kerja ringan-sedang,Stres Sedang,-,-
+46,40,78,180,L,-,-,Kerja sedang,Stres Berat,-,-
+47,31,68,172,P,-,-,Kerja berat,Stres Ringan,-,-
+48,39,77,178,L,-,Gandum,Kerja berat sekali,Stres Sangat Berat,-,-
+49,24,62,158,P,-,Ikan,Kerja sangat ringan,Stres Sedang,-,-
+50,34,70,173,L,-,-,Kerja ringan,Stres Ringan,-,-
+51,43,85,186,L,diabetes,Telur,Kerja ringan-sedang,Stres Sedang,-,-
+52,37,74,177,P,maag,-,Kerja sedang,Stres Berat,-,-
+53,45,87,182,L,diabetes,Udang,Kerja berat,Stres Sangat Berat,-,-
+54,28,66,165,P,-,-,Kerja berat sekali,Stres Ringan,-,-
+55,31,71,173,L,-,Gandum,Kerja sangat ringan,Stres Sedang,-,-
+56,29,68,170,L,-,Ikan,Kerja ringan,Stres Sangat Berat,-,-
+57,40,79,180,P,maag,-,Kerja ringan-sedang,Stres Berat,-,-
+58,26,64,162,L,diabetes,-,Kerja sedang,Stres Ringan,-,-
+59,32,70,168,P,maag,Kacang Tanah,Kerja berat,Stres Sedang,-,-
+60,48,92,188,L,diabetes,Udang,Kerja berat sekali,Stres Sangat Berat,-,-
+61,33,72,175,L,-,-,Kerja sangat ringan,Stres Ringan,-,-
+62,39,76,177,P,-,-,Kerja ringan,Stres Sedang,-,-
+63,27,65,166,L,maag,Gandum,Kerja ringan-sedang,Stres Berat,-,-
+64,44,86,183,P,diabetes,-,Kerja sedang,Stres Sedang,-,-
+65,35,71,176,L,maag,Telur,Kerja berat,Stres Ringan,-,-
+66,30,67,170,L,diabetes,Kacang Tanah,Kerja berat sekali,Stres Sangat Berat,-,-
+67,37,75,177,P,-,-,Kerja sangat ringan,Stres Berat,-,-
+68,23,61,157,L,-,Ikan,Kerja ringan,Stres Sedang,-,-
+69,42,81,182,P,maag,Kerang,Kerja ringan-sedang,Stres Ringan,-,-
+70,34,69,170,L,diabetes,-,Kerja sedang,Stres Sangat Berat,-,-
+71,36,73,175,L,maag,-,Kerja berat,Stres Ringan,-,-
+72,25,63,160,P,diabetes,Telur,Kerja berat sekali,Stres Sedang,-,-
+73,30,65,170,L,-,Kacang Tanah,Kerja sangat ringan,Stres Berat,-,-
+74,45,72,175,P,-,-,Kerja ringan,Stres Sedang,-,-
+75,28,60,165,L,maag,-,Kerja ringan-sedang,Stres Ringan,-,-
+76,35,80,180,L,diabetes,-,Kerja sedang,Stres Sangat Berat,-,-
+77,50,68,168,P,maag,-,Kerja berat,Stres Berat,-,-
+78,42,75,173,L,diabetes,-,Kerja berat sekali,Stres Ringan,-,-
+79,29,64,167,P,-,Telur,Kerja sangat ringan,Stres Sedang,-,-
+80,37,78,178,L,-,Kacang Tanah,Kerja ringan,Stres Sedang,-,-
+81,31,70,172,L,maag,-,Kerja ringan-sedang,Stres Sangat Berat,-,-
+82,47,82,185,P,diabetes,-,Kerja sedang,Stres Ringan,-,-
+83,33,69,171,L,maag,-,Kerja berat,Stres Berat,-,-
+84,39,77,177,P,diabetes,Gandum,Kerja berat sekali,Stres Sedang,-,-
+85,26,62,163,L,-,Susu Sapi,Kerja sangat ringan,Stres Sedang,-,-
+86,43,73,176,L,-,-,Kerja ringan,Stres Ringan,-,-
+87,32,67,166,P,maag,-,Kerja ringan-sedang,Stres Sangat Berat,-,-
+88,38,79,179,L,diabetes,-,Kerja sedang,Stres Berat,-,-
+89,44,76,174,P,maag,Ikan,Kerja berat,Stres Sedang,-,-
+90,27,63,164,L,diabetes,Kerang,Kerja berat sekali,Stres Sedang,-,-
+91,34,71,169,L,-,-,Kerja sangat ringan,Stres Ringan,-,-
+92,46,81,183,P,-,-,Kerja ringan,Stres Berat,-,-
+93,41,74,172,L,maag,-,Kerja ringan-sedang,Stres Sangat Berat,-,-
+94,36,66,168,P,diabetes,Kacang Tanah,Kerja sedang,Stres Ringan,-,-
+95,48,83,186,L,maag,Udang,Kerja berat,Stres Sedang,-,-
+96,30,68,166,L,diabetes,Ikan,Kerja berat sekali,Stres Sangat Berat,-,-
+97,45,75,176,P,-,-,Kerja sangat ringan,Stres Berat,-,-
+98,28,63,161,L,-,-,Kerja ringan,Stres Ringan,-,-
+99,35,79,181,P,maag,-,Kerja ringan-sedang,Stres Sedang,-,-
+100,50,67,167,L,diabetes,-,Kerja sedang,Stres Sedang,-,-
+101,42,76,175,L,maag,-,Kerja berat,Stres Sangat Berat,-,-
+102,29,65,164,P,diabetes,Udang,Kerja berat sekali,Stres Ringan,-,-
+103,37,80,179,L,-,Ikan,Kerja sangat ringan,Stres Berat,-,-
+104,31,69,169,P,maag,-,Kerja ringan,Stres Sedang,-,-
+105,47,82,184,L,diabetes,-,Kerja ringan-sedang,Stres Sedang,-,-
+106,33,72,171,L,maag,Susu Sapi,Kerja sedang,Stres Ringan,-,-
+107,39,77,176,P,diabetes,Telur,Kerja berat,Stres Sangat Berat,-,-
+108,26,61,162,L,-,Kacang Tanah,Kerja berat sekali,Stres Berat,-,-
+109,43,74,173,P,-,-,Kerja sangat ringan,Stres Sedang,-,-
+110,32,68,165,L,maag,Ikan,Kerja ringan,Stres Sedang,-,-
+111,38,78,178,L,diabetes,-,Kerja ringan-sedang,Stres Ringan,-,-
+112,27,65,170,P,maag,-,Kerja sedang,Stres Berat,-,-
+113,42,73,175,L,diabetes,-,Istirahat di tempat tidur,Stres Sangat Berat,-,-
+114,31,62,165,P,-,Telur,Kerja sangat ringan,Stres Ringan,-,-
+115,56,82,180,L,-,Kacang Tanah,Kerja ringan,Stres Sedang,-,-
+116,19,55,160,L,maag,Udang,Kerja ringan-sedang,Stres Sangat Berat,-,-
+117,44,75,178,P,diabetes,-,Kerja sedang,Stres Berat,-,-
+118,36,68,172,L,maag,-,Kerja berat,Stres Ringan,-,-
+119,28,67,168,P,diabetes,-,Kerja berat sekali,Stres Sedang,-,-
+120,33,70,173,L,-,-,Kerja sangat ringan,Stres Sedang,-,-
+121,45,80,177,L,-,Telur,Kerja ringan,Stres Sangat Berat,-,-
+122,50,90,185,P,maag,Kacang Tanah,Kerja ringan-sedang,Stres Ringan,-,-
+123,22,58,163,L,diabetes,Udang,Kerja sedang,Stres Berat,-,-
+124,39,72,174,P,maag,-,Kerja berat,Stres Sedang,-,-
+125,29,66,167,L,diabetes,-,Kerja berat sekali,Stres Sedang,-,-
+126,38,71,173,L,-,-,Kerja sangat ringan,Stres Ringan,-,-
+127,34,69,171,P,-,Susu Sapi,Kerja ringan,Stres Sangat Berat,-,-
+128,41,74,177,L,-,Telur,Kerja ringan-sedang,Stres Berat,-,-
+129,25,63,166,P,maag,Kacang Tanah,Kerja sedang,Stres Sedang,-,-
+130,47,78,181,L,diabetes,-,Kerja berat,Stres Sedang,-,-
+131,52,85,183,L,maag,Ikan,Kerja berat sekali,Stres Ringan,-,-
+132,23,59,162,P,diabetes,-,Kerja sangat ringan,Stres Berat,-,-
+133,30,64,169,L,-,-,Kerja ringan,Stres Sangat Berat,-,-
+134,48,79,180,P,-,Susu Sapi,Kerja ringan-sedang,Stres Ringan,-,-
+135,37,70,172,L,-,Telur,Kerja sedang,Stres Sedang,-,-
+136,26,64,168,L,-,-,Kerja berat,Stres Sangat Berat,-,-
+137,53,86,184,P,-,Udang,Kerja berat sekali,Stres Berat,-,-
+138,43,76,179,L,-,-,Kerja sangat ringan,Stres Ringan,-,-
+139,35,67,168,P,-,Kerang,Kerja ringan,Stres Sedang,-,-
+140,49,83,182,L,-,-,Kerja ringan-sedang,Stres Sedang,-,-
+141,21,57,161,L,-,-,Kerja sedang,Stres Sangat Berat,-,-
+142,25,63,165,P,-,Telur,Kerja berat,Stres Ringan,-,-
+143,32,71,180,L,-,Kacang Tanah,Kerja berat sekali,Stres Berat,-,-
+144,42,78,175,P,-,-,Kerja sangat ringan,Stres Sedang,-,-
+145,37,65,168,L,-,-,Kerja ringan,Stres Sedang,-,-
+146,28,59,160,L,-,Kerang,Kerja ringan-sedang,Stres Ringan,-,-
+147,46,85,182,P,-,Gandum,Kerja sedang,Stres Sangat Berat,-,-
+148,31,72,178,L,-,-,Kerja berat,Stres Berat,-,-
+149,29,68,173,P,-,-,Kerja berat sekali,Stres Sedang,-,-
+150,33,70,177,L,-,Kacang Tanah,Kerja sangat ringan,Stress Level,-,-
+151,24,61,162,L,maag,Udang,Kerja ringan,Stres Sedang,-,-
+152,39,75,170,P,diabetes,-,Kerja ringan-sedang,Stres Ringan,-,-
+153,48,83,178,L,maag,Kerang,Kerja sedang,Stres Sedang,-,-
+154,26,64,166,P,diabetes,-,Kerja berat,Stres Ringan,-,-
+155,35,69,174,L,-,Susu Sapi,Kerja berat sekali,Stres Sangat Berat,-,-
+156,41,77,176,L,-,Telur,Kerja sangat ringan,Stres Ringan,-,-
+157,27,62,164,P,maag,-,Kerja ringan,Stres Berat,-,-
+158,30,66,169,L,diabetes,Udang,Kerja ringan-sedang,Stres Sedang,-,-
+159,36,74,175,P,maag,-,Kerja sedang,Stres Berat,-,-
+160,38,73,171,L,diabetes,Kerang,Kerja berat,Stres Berat,-,-
+161,25,65,170,L,-,-,Kerja berat sekali,Stres Ringan,-,-
+162,32,72,175,P,-,Susu Sapi,Kerja sangat ringan,Stres Sedang,-,-
+163,41,68,168,L,-,Telur,Kerja ringan,Stres Berat,-,-
+164,28,60,163,P,maag,-,Kerja ringan-sedang,Stres Sangat Berat,-,-
+165,37,80,180,L,diabetes,Udang,Kerja sedang,Stres Ringan,-,-
+166,23,55,158,L,maag,-,Kerja berat,Stres Sedang,-,-
+167,36,75,173,P,diabetes,Kerang,Kerja berat sekali,Stres Sangat Berat,-,-
+168,29,63,165,L,-,-,Kerja sangat ringan,Stres Ringan,-,-
+169,33,70,172,P,-,Susu Sapi,Kerja ringan,Stres Ringan,-,-
+170,45,82,178,L,-,-,Kerja ringan-sedang,Stres Berat,-,-
+171,27,58,160,L,-,-,Kerja sedang,Stres Ringan,-,-
+172,39,77,175,P,maag,-,Kerja berat,Stres Sedang,-,-
+173,31,68,169,L,diabetes,-,Kerja berat sekali,Stres Berat,-,-
+174,26,62,167,P,maag,-,Kerja sangat ringan,Stres Sangat Berat,-,-
+175,34,69,171,L,diabetes,-,Kerja ringan,Stres Ringan,-,-
+176,43,79,176,L,-,-,Kerja ringan-sedang,Stres Sedang,-,-
+177,24,56,161,P,-,-,Kerja sedang,Stres Sedang,-,-
+178,38,73,174,L,-,-,Kerja berat,Stres Sedang,-,-
+179,30,67,168,P,-,-,Kerja berat sekali,Stres Berat,-,-
+180,35,71,170,L,maag,Ikan,Kerja sangat ringan,Stres Sangat Berat,-,-
+181,42,76,177,L,diabetes,-,Kerja ringan,Stres Ringan,-,-
+182,22,54,157,P,maag,-,Kerja ringan-sedang,Stres Sedang,-,-
+183,44,81,179,L,diabetes,Susu Sapi,Kerja sedang,Stres Sangat Berat,-,-
+184,26,64,166,P,-,-,Kerja berat,Stres Sedang,-,-
+185,33,70,171,L,-,-,Kerja berat sekali,Stres Sedang,-,-
+186,40,74,173,L,-,-,Kerja sangat ringan,Stres Ringan,-,-
+187,29,61,164,P,-,Ikan,Kerja ringan,Stres Ringan,-,-
+188,31,67,168,L,-,-,Kerja ringan-sedang,Stres Berat,-,-
+189,46,85,182,P,maag,-,Kerja sedang,Stres Sangat Berat,-,-
+190,25,59,162,L,diabetes,-,Kerja berat,Stres Sedang,-,-
+191,37,76,175,L,maag,Telur,Kerja berat sekali,Stres Ringan,-,-
+192,28,65,169,P,diabetes,-,Kerja sangat ringan,Stres Berat,-,-
+193,30,66,167,L,-,Telur,Kerja ringan,Stres Sedang,-,-
+194,35,72,171,P,-,-,Kerja ringan-sedang,Stres Sedang,-,-
+195,27,57,160,L,maag,Kacang Tanah,Kerja sedang,Stres Ringan,-,-
+196,34,68,170,L,diabetes,Gandum,Kerja berat,Stres Ringan,-,-
+197,47,88,185,P,maag,-,Kerja berat sekali,Stres Sedang,-,-
+198,23,53,156,L,diabetes,Kerang,Kerja sangat ringan,Stres Berat,-,-
+199,39,78,176,P,-,-,Kerja ringan,Stres Sedang,-,-
+200,32,69,172,L,-,-,Kerja ringan-sedang,Stres Berat,-,-
+201,41,83,180,L,-,-,Kerja sedang,Stres Sangat Berat,-,-
+202,46,85,182,P,maag,Susu Sapi,Kerja berat,Stres Sedang,-,-
+203,48,83,178,L,-,Udang,Kerja berat sekali,Stres Ringan,-,-
+204,42,73,175,P,maag,-,Kerja sangat ringan,Stres Ringan,-,-
+205,44,86,183,L,diabetes,Kerang,Kerja ringan,Stres Sedang,-,-
