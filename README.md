@@ -9,18 +9,18 @@ With machine learning, we produce 2 main feature. There are:
 
 Dataset we use:
 Dataset Food-Images:
-https://www.kaggle.com/datasets/kmader/food41
-we upload it in drive and reduce it: 
-https://drive.google.com/drive/folders/1N80uJBSMUairt-a3JXYSz_UsWdvuh3TL?usp=sharing
-Dataset Food Composition
-https://m.andrafarm.com/_andra.php?_i=daftar-tkpi
-we separate into dataset makanan and dataset snack
-Dataset makanan:
-https://drive.google.com/file/d/1GjKLRbWGETB6q1jRp_y0fbD8DdmcAoJZ/view?usp=sharing
-Dataset snack: 
-https://drive.google.com/file/d/1HXuCaO2AXTMimikx79gBxiLk2iURjLzF/view?usp=sharing
-Dataset Pengguna:
-https://drive.google.com/file/d/1p3i6nz2RcFx-II_HwRShJ9vLS0aaKcBu/view?usp=sharing
+<br> https://www.kaggle.com/datasets/kmader/food41
+<br> we upload it in drive and reduce it: 
+<br> https://drive.google.com/drive/folders/1N80uJBSMUairt-a3JXYSz_UsWdvuh3TL?usp=sharing
+<br> Dataset Food Composition
+<br> https://m.andrafarm.com/_andra.php?_i=daftar-tkpi
+<br> we separate into dataset makanan and dataset snack
+<br> Dataset makanan:
+<br> https://drive.google.com/file/d/1GjKLRbWGETB6q1jRp_y0fbD8DdmcAoJZ/view?usp=sharing
+<br> Dataset snack: 
+<br> https://drive.google.com/file/d/1HXuCaO2AXTMimikx79gBxiLk2iURjLzF/view?usp=sharing
+<br> Dataset Pengguna:
+<br> https://drive.google.com/file/d/1p3i6nz2RcFx-II_HwRShJ9vLS0aaKcBu/view?usp=sharing
 
 How to use:
 1. Clone this GitHub
